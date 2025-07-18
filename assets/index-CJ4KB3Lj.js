@@ -7,7 +7,7 @@ var oo=Object.defineProperty;var Hr=t=>{throw TypeError(t)};var io=(t,e,r)=>e in
                 features that are common in scrollytelling.`);C(_,v)}});var f=R(h,2);wt(f,{children:(_,c)=>{var v=bt(`For example, you might want a component that doesn't feature a\r
                 sticky component at all. Or a component that is solely a sticky\r
                 component.`);C(_,v)}});var u=R(f,2);wt(u,{children:(_,c)=>{var v=bt(`You might also want to add more interactivity or gamify parts of\r
-                your scrollytelling piece.`);C(_,v)}});var d=R(u,2);wt(d,{children:(_,c)=>{var v=Di();C(_,v)}}),C(i,a)}}),C(t,e)}var qi=A('<img class="asian-edu svelte-1e9raft" src="asian_edu.png" alt="Asian Education"/>'),ji=A("<strong>Welcome to the KWK Data Scrollytelling Template!</strong>"),Bi=A(`This is a <strong>basic example</strong> of how you might create
+                your scrollytelling piece.`);C(_,v)}});var d=R(u,2);wt(d,{children:(_,c)=>{var v=Di();C(_,v)}}),C(i,a)}}),C(t,e)}var qi=A('<img class="asian-edu svelte-1e9raft" src="/asian_edu.png" alt="Asian Education"/>'),ji=A("<strong>Welcome to the KWK Data Scrollytelling Template!</strong>"),Bi=A(`This is a <strong>basic example</strong> of how you might create
                 a scrollytelling piece using Svelte and Highcharts.`,1),Vi=A(`You can use this template as a <strong>starting point</strong> for your project. <br/><br/> Or, if you want to build something from scratch, you can use it as
                 a <strong>reference</strong> for specific functionality.`,1),Wi=A(`This is <strong>just one way</strong> that scrollytelling can
                 look. <br/><br/> <strong>If you use this template, be sure to modify it and make it
