@@ -1,0 +1,385 @@
+year,educational_attainment,race_or_ethnicity,value
+2010,"Some college, no degree",Asian,48330.0
+2010,All education levels,Asian,62670.0
+2010,Bachelor's degree,Asian,70130.0
+2010,High school completion,Asian,40870.0
+2010,Associate's degree,Asian,49760.0
+2010,Less than high school completion,Asian,
+2010,Bachelor's or higher degree,Asian,80910.0
+2010,Master's or higher degree,Asian,94280.0
+2012,Associate's degree,Asian,57880.0
+2012,Bachelor's degree,Asian,77130.0
+2012,"Some college, no degree",Asian,43160.0
+2012,Master's or higher degree,Asian,90590.0
+2012,Less than high school completion,Asian,
+2012,Bachelor's or higher degree,Asian,83250.0
+2012,All education levels,Asian,67110.0
+2012,High school completion,Asian,38850.0
+2013,Bachelor's or higher degree,Asian,77410.0
+2013,Master's or higher degree,Asian,95490.0
+2013,"Some college, no degree",Asian,42900.0
+2013,High school completion,Asian,36880.0
+2013,Less than high school completion,Asian,
+2013,Associate's degree,Asian,41370.0
+2013,Bachelor's degree,Asian,75380.0
+2013,All education levels,Asian,64740.0
+2014,Less than high school completion,Asian,27250.0
+2014,Associate's degree,Asian,42810.0
+2014,Master's or higher degree,Asian,90680.0
+2014,Bachelor's degree,Asian,70610.0
+2014,"Some college, no degree",Asian,38100.0
+2014,High school completion,Asian,37620.0
+2014,All education levels,Asian,62910.0
+2014,Bachelor's or higher degree,Asian,76720.0
+2015,Less than high school completion,Asian,35840.0
+2015,Bachelor's or higher degree,Asian,86700.0
+2015,Master's or higher degree,Asian,95500.0
+2015,Associate's degree,Asian,39250.0
+2015,"Some college, no degree",Asian,43980.0
+2015,All education levels,Asian,64400.0
+2015,High school completion,Asian,35730.0
+2015,Bachelor's degree,Asian,78470.0
+2016,Master's or higher degree,Asian,99510.0
+2016,Associate's degree,Asian,50250.0
+2016,Bachelor's or higher degree,Asian,85580.0
+2016,Bachelor's degree,Asian,75060.0
+2016,All education levels,Asian,67210.0
+2016,"Some college, no degree",Asian,44360.0
+2016,High school completion,Asian,36760.0
+2016,Less than high school completion,Asian,32930.0
+2017,High school completion,Asian,42350.0
+2017,Bachelor's or higher degree,Asian,84860.0
+2017,Master's or higher degree,Asian,96090.0
+2017,Associate's degree,Asian,45440.0
+2017,"Some college, no degree",Asian,40710.0
+2017,Less than high school completion,Asian,
+2017,Bachelor's degree,Asian,79650.0
+2017,All education levels,Asian,73300.0
+2018,Bachelor's degree,Asian,72750.0
+2018,Bachelor's or higher degree,Asian,83750.0
+2018,High school completion,Asian,40150.0
+2018,All education levels,Asian,71130.0
+2018,Associate's degree,Asian,47230.0
+2018,Master's or higher degree,Asian,95570.0
+2018,"Some college, no degree",Asian,46710.0
+2018,Less than high school completion,Asian,
+2019,Master's or higher degree,Asian,99980.0
+2019,Associate's degree,Asian,46170.0
+2019,All education levels,Asian,70540.0
+2019,Bachelor's degree,Asian,70700.0
+2019,Less than high school completion,Asian,
+2019,High school completion,Asian,34790.0
+2019,"Some college, no degree",Asian,40060.0
+2019,Bachelor's or higher degree,Asian,85150.0
+2020,High school completion,Asian,46030.0
+2020,Less than high school completion,Asian,
+2020,"Some college, no degree",Asian,42070.0
+2020,Master's or higher degree,Asian,98310.0
+2020,Bachelor's or higher degree,Asian,87540.0
+2020,Bachelor's degree,Asian,80210.0
+2020,All education levels,Asian,81160.0
+2020,Associate's degree,Asian,58020.0
+2021,High school completion,Asian,44320.0
+2021,"Some college, no degree",Asian,49760.0
+2021,Bachelor's or higher degree,Asian,92590.0
+2021,Less than high school completion,Asian,
+2021,Master's or higher degree,Asian,108090.0
+2021,All education levels,Asian,78740.0
+2021,Bachelor's degree,Asian,76950.0
+2021,Associate's degree,Asian,50000.0
+2022,Associate's degree,Asian,52170.0
+2022,High school completion,Asian,50990.0
+2022,All education levels,Asian,81030.0
+2022,Less than high school completion,Asian,
+2022,Master's or higher degree,Asian,107290.0
+2022,"Some college, no degree",Asian,50450.0
+2022,Bachelor's or higher degree,Asian,91130.0
+2022,Bachelor's degree,Asian,81420.0
+2010,Master's or higher degree,Black,65010.0
+2010,Associate's degree,Black,42220.0
+2010,"Some college, no degree",Black,40640.0
+2010,High school completion,Black,35080.0
+2010,Less than high school completion,Black,29390.0
+2010,Bachelor's or higher degree,Black,56120.0
+2010,Bachelor's degree,Black,54660.0
+2010,All education levels,Black,42780.0
+2012,High school completion,Black,34190.0
+2012,Associate's degree,Black,41320.0
+2012,"Some college, no degree",Black,39640.0
+2012,All education levels,Black,40930.0
+2012,Bachelor's or higher degree,Black,57490.0
+2012,Less than high school completion,Black,27420.0
+2012,Master's or higher degree,Black,71070.0
+2012,Bachelor's degree,Black,51980.0
+2013,Bachelor's degree,Black,52650.0
+2013,High school completion,Black,33580.0
+2013,All education levels,Black,42810.0
+2013,Master's or higher degree,Black,71040.0
+2013,Less than high school completion,Black,26260.0
+2013,Associate's degree,Black,44170.0
+2013,"Some college, no degree",Black,40360.0
+2013,Bachelor's or higher degree,Black,57420.0
+2014,High school completion,Black,32270.0
+2014,Bachelor's degree,Black,58000.0
+2014,Master's or higher degree,Black,61730.0
+2014,Bachelor's or higher degree,Black,58780.0
+2014,All education levels,Black,39190.0
+2014,"Some college, no degree",Black,34610.0
+2014,Associate's degree,Black,39280.0
+2014,Less than high school completion,Black,27380.0
+2015,All education levels,Black,43440.0
+2015,Bachelor's degree,Black,52960.0
+2015,Less than high school completion,Black,38160.0
+2015,High school completion,Black,34340.0
+2015,Master's or higher degree,Black,69340.0
+2015,Bachelor's or higher degree,Black,59180.0
+2015,Associate's degree,Black,39230.0
+2015,"Some college, no degree",Black,39140.0
+2016,All education levels,Black,41980.0
+2016,Bachelor's degree,Black,56690.0
+2016,High school completion,Black,34360.0
+2016,Bachelor's or higher degree,Black,62000.0
+2016,Master's or higher degree,Black,73910.0
+2016,"Some college, no degree",Black,38430.0
+2016,Associate's degree,Black,38780.0
+2016,Less than high school completion,Black,26900.0
+2017,Master's or higher degree,Black,67300.0
+2017,Less than high school completion,Black,29320.0
+2017,"Some college, no degree",Black,37260.0
+2017,All education levels,Black,42170.0
+2017,High school completion,Black,35910.0
+2017,Bachelor's or higher degree,Black,55870.0
+2017,Associate's degree,Black,42480.0
+2017,Bachelor's degree,Black,50300.0
+2018,High school completion,Black,35510.0
+2018,Associate's degree,Black,41800.0
+2018,All education levels,Black,42740.0
+2018,Less than high school completion,Black,30160.0
+2018,"Some college, no degree",Black,41520.0
+2018,Bachelor's degree,Black,49070.0
+2018,Bachelor's or higher degree,Black,53940.0
+2018,Master's or higher degree,Black,63760.0
+2019,Less than high school completion,Black,31270.0
+2019,Bachelor's degree,Black,52240.0
+2019,Associate's degree,Black,42190.0
+2019,All education levels,Black,43660.0
+2019,Master's or higher degree,Black,63720.0
+2019,High school completion,Black,35390.0
+2019,Bachelor's or higher degree,Black,55060.0
+2019,"Some college, no degree",Black,42810.0
+2020,All education levels,Black,46550.0
+2020,Bachelor's or higher degree,Black,58790.0
+2020,Less than high school completion,Black,34070.0
+2020,"Some college, no degree",Black,42360.0
+2020,Bachelor's degree,Black,58380.0
+2020,Associate's degree,Black,41890.0
+2020,Master's or higher degree,Black,62580.0
+2020,High school completion,Black,39630.0
+2021,Bachelor's degree,Black,55700.0
+2021,Bachelor's or higher degree,Black,60140.0
+2021,High school completion,Black,39370.0
+2021,Master's or higher degree,Black,67980.0
+2021,Less than high school completion,Black,38080.0
+2021,"Some college, no degree",Black,39220.0
+2021,All education levels,Black,45170.0
+2021,Associate's degree,Black,45150.0
+2022,Associate's degree,Black,46950.0
+2022,Less than high school completion,Black,32210.0
+2022,Master's or higher degree,Black,68970.0
+2022,Bachelor's or higher degree,Black,61150.0
+2022,High school completion,Black,37530.0
+2022,All education levels,Black,46040.0
+2022,"Some college, no degree",Black,40260.0
+2022,Bachelor's degree,Black,56030.0
+2010,Bachelor's or higher degree,Hispanic,60220.0
+2010,Less than high school completion,Hispanic,28230.0
+2010,"Some college, no degree",Hispanic,42980.0
+2010,Bachelor's degree,Hispanic,56720.0
+2010,Associate's degree,Hispanic,46580.0
+2010,Master's or higher degree,Hispanic,65500.0
+2010,All education levels,Hispanic,40410.0
+2010,High school completion,Hispanic,38000.0
+2012,Bachelor's or higher degree,Hispanic,58490.0
+2012,Bachelor's degree,Hispanic,54580.0
+2012,High school completion,Hispanic,35840.0
+2012,Master's or higher degree,Hispanic,66830.0
+2012,All education levels,Hispanic,39260.0
+2012,Less than high school completion,Hispanic,28910.0
+2012,Associate's degree,Hispanic,43500.0
+2012,"Some college, no degree",Hispanic,41060.0
+2013,Bachelor's degree,Hispanic,57880.0
+2013,Less than high school completion,Hispanic,28660.0
+2013,High school completion,Hispanic,36300.0
+2013,"Some college, no degree",Hispanic,39480.0
+2013,All education levels,Hispanic,38580.0
+2013,Associate's degree,Hispanic,43000.0
+2013,Bachelor's or higher degree,Hispanic,58780.0
+2013,Master's or higher degree,Hispanic,62730.0
+2014,All education levels,Hispanic,38880.0
+2014,High school completion,Hispanic,37440.0
+2014,"Some college, no degree",Hispanic,39730.0
+2014,Less than high school completion,Hispanic,29910.0
+2014,Master's or higher degree,Hispanic,72530.0
+2014,Bachelor's degree,Hispanic,55730.0
+2014,Bachelor's or higher degree,Hispanic,59940.0
+2014,Associate's degree,Hispanic,39370.0
+2015,Associate's degree,Hispanic,45330.0
+2015,Bachelor's or higher degree,Hispanic,63810.0
+2015,High school completion,Hispanic,37630.0
+2015,All education levels,Hispanic,39840.0
+2015,"Some college, no degree",Hispanic,42440.0
+2015,Less than high school completion,Hispanic,30060.0
+2015,Master's or higher degree,Hispanic,67560.0
+2015,Bachelor's degree,Hispanic,63000.0
+2016,Master's or higher degree,Hispanic,69700.0
+2016,Bachelor's degree,Hispanic,57080.0
+2016,Less than high school completion,Hispanic,31760.0
+2016,All education levels,Hispanic,41420.0
+2016,High school completion,Hispanic,37680.0
+2016,"Some college, no degree",Hispanic,39370.0
+2016,Bachelor's or higher degree,Hispanic,61530.0
+2016,Associate's degree,Hispanic,44000.0
+2017,Associate's degree,Hispanic,44010.0
+2017,All education levels,Hispanic,42090.0
+2017,High school completion,Hispanic,36760.0
+2017,Less than high school completion,Hispanic,31780.0
+2017,Bachelor's or higher degree,Hispanic,58700.0
+2017,"Some college, no degree",Hispanic,42400.0
+2017,Master's or higher degree,Hispanic,69420.0
+2017,Bachelor's degree,Hispanic,56100.0
+2018,High school completion,Hispanic,37840.0
+2018,"Some college, no degree",Hispanic,42490.0
+2018,Master's or higher degree,Hispanic,72330.0
+2018,Less than high school completion,Hispanic,32310.0
+2018,Associate's degree,Hispanic,42870.0
+2018,All education levels,Hispanic,42790.0
+2018,Bachelor's degree,Hispanic,54620.0
+2018,Bachelor's or higher degree,Hispanic,59230.0
+2019,All education levels,Hispanic,43180.0
+2019,High school completion,Hispanic,40760.0
+2019,"Some college, no degree",Hispanic,42200.0
+2019,Bachelor's degree,Hispanic,53400.0
+2019,Bachelor's or higher degree,Hispanic,58320.0
+2019,Associate's degree,Hispanic,45670.0
+2019,Less than high school completion,Hispanic,32980.0
+2019,Master's or higher degree,Hispanic,70140.0
+2020,Less than high school completion,Hispanic,35050.0
+2020,"Some college, no degree",Hispanic,43810.0
+2020,High school completion,Hispanic,39560.0
+2020,Associate's degree,Hispanic,47610.0
+2020,Bachelor's or higher degree,Hispanic,60540.0
+2020,All education levels,Hispanic,46310.0
+2020,Master's or higher degree,Hispanic,68320.0
+2020,Bachelor's degree,Hispanic,58160.0
+2021,Master's or higher degree,Hispanic,77070.0
+2021,Bachelor's degree,Hispanic,56670.0
+2021,Associate's degree,Hispanic,46160.0
+2021,Less than high school completion,Hispanic,34690.0
+2021,Bachelor's or higher degree,Hispanic,61290.0
+2021,High school completion,Hispanic,41240.0
+2021,All education levels,Hispanic,45490.0
+2021,"Some college, no degree",Hispanic,44680.0
+2022,Bachelor's or higher degree,Hispanic,60200.0
+2022,Master's or higher degree,Hispanic,62290.0
+2022,Associate's degree,Hispanic,45770.0
+2022,Bachelor's degree,Hispanic,57100.0
+2022,All education levels,Hispanic,45610.0
+2022,"Some college, no degree",Hispanic,43010.0
+2022,High school completion,Hispanic,41220.0
+2022,Less than high school completion,Hispanic,32940.0
+2010,Master's or higher degree,White,74780.0
+2010,Bachelor's or higher degree,White,67380.0
+2010,Bachelor's degree,White,62960.0
+2010,High school completion,White,43760.0
+2010,Less than high school completion,White,35190.0
+2010,All education levels,White,55330.0
+2010,"Some college, no degree",White,47010.0
+2010,Associate's degree,White,54100.0
+2012,Master's or higher degree,White,73710.0
+2012,"Some college, no degree",White,45030.0
+2012,High school completion,White,41410.0
+2012,Bachelor's or higher degree,White,64900.0
+2012,All education levels,White,53110.0
+2012,Bachelor's degree,White,61190.0
+2012,Associate's degree,White,49950.0
+2012,Less than high school completion,White,33360.0
+2013,All education levels,White,53140.0
+2013,Less than high school completion,White,38950.0
+2013,"Some college, no degree",White,45800.0
+2013,High school completion,White,40400.0
+2013,Bachelor's or higher degree,White,65000.0
+2013,Associate's degree,White,51310.0
+2013,Master's or higher degree,White,76330.0
+2013,Bachelor's degree,White,62710.0
+2014,"Some college, no degree",White,43760.0
+2014,Associate's degree,White,45960.0
+2014,All education levels,White,52580.0
+2014,Bachelor's degree,White,63110.0
+2014,Bachelor's or higher degree,White,65310.0
+2014,High school completion,White,40930.0
+2014,Less than high school completion,White,35820.0
+2014,Master's or higher degree,White,73200.0
+2015,"Some college, no degree",White,44990.0
+2015,High school completion,White,43500.0
+2015,Less than high school completion,White,37060.0
+2015,Associate's degree,White,48830.0
+2015,Bachelor's degree,White,63420.0
+2015,Master's or higher degree,White,76570.0
+2015,Bachelor's or higher degree,White,67980.0
+2015,All education levels,White,56060.0
+2016,Associate's degree,White,49520.0
+2016,Bachelor's or higher degree,White,67760.0
+2016,Less than high school completion,White,36750.0
+2016,Master's or higher degree,White,75690.0
+2016,"Some college, no degree",White,44220.0
+2016,Bachelor's degree,White,62960.0
+2016,All education levels,White,55910.0
+2016,High school completion,White,44260.0
+2017,High school completion,White,43250.0
+2017,"Some college, no degree",White,47390.0
+2017,Bachelor's or higher degree,White,68250.0
+2017,Bachelor's degree,White,65240.0
+2017,Associate's degree,White,49250.0
+2017,Master's or higher degree,White,79890.0
+2017,Less than high school completion,White,36540.0
+2017,All education levels,White,56040.0
+2018,Less than high school completion,White,41650.0
+2018,High school completion,White,43780.0
+2018,All education levels,White,57450.0
+2018,Master's or higher degree,White,73920.0
+2018,Bachelor's or higher degree,White,70450.0
+2018,Bachelor's degree,White,67530.0
+2018,Associate's degree,White,49730.0
+2018,"Some college, no degree",White,44860.0
+2019,High school completion,White,44610.0
+2019,Less than high school completion,White,39560.0
+2019,Master's or higher degree,White,80340.0
+2019,Bachelor's or higher degree,White,70660.0
+2019,Associate's degree,White,51520.0
+2019,All education levels,White,58760.0
+2019,Bachelor's degree,White,69150.0
+2019,"Some college, no degree",White,47240.0
+2020,All education levels,White,59790.0
+2020,Bachelor's or higher degree,White,72490.0
+2020,"Some college, no degree",White,47580.0
+2020,Associate's degree,White,52960.0
+2020,Less than high school completion,White,38250.0
+2020,High school completion,White,46100.0
+2020,Master's or higher degree,White,79440.0
+2020,Bachelor's degree,White,69800.0
+2021,Master's or higher degree,White,76050.0
+2021,Bachelor's or higher degree,White,72620.0
+2021,All education levels,White,59620.0
+2021,Bachelor's degree,White,71920.0
+2021,Less than high school completion,White,37700.0
+2021,High school completion,White,45400.0
+2021,Associate's degree,White,50090.0
+2021,"Some college, no degree",White,48860.0
+2022,Associate's degree,White,50930.0
+2022,Bachelor's degree,White,70250.0
+2022,Bachelor's or higher degree,White,71650.0
+2022,High school completion,White,45060.0
+2022,All education levels,White,58120.0
+2022,"Some college, no degree",White,48310.0
+2022,Less than high school completion,White,43830.0
+2022,Master's or higher degree,White,78700.0
