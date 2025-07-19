@@ -1,7 +1,7 @@
 # Black Wealth Data Center Challenge 2025
 
 ● A scrollytelling project presents the Education Attainment and Annual Earning rates for Asian, Black, Hispanic, and White through visualizations and Insights.
-Check the web page of [final project](https://mennahassan8.github.io/BWDC/)!
+Check the web page of [Final Project Website](https://mennahassan8.github.io/BWDC/)!
 ## Tools
 ● Python
 ● Pandas
