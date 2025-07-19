@@ -1,4 +1,4 @@
-# KWK Scrollytelling 
+# Black Wealth Data Center Challenge 2025
 
 This template is a starting point / example of how to create a scrollytelling piece using Svelte and Highcharts! 
 
