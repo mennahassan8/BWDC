@@ -6,7 +6,8 @@ Check the web page of [Final Project Website](https://mennahassan8.github.io/BWD
 ● Python
 ● Pandas
 ● Svelte
-
+● HTML
+● CSS
 ## DataSets
 ● [BWDC website](https://blackwealthdata.org/)
 
