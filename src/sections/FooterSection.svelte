@@ -22,7 +22,7 @@
 
   h1 {
     color:yellow;
-    font-size: 2.2rem;
+    font-size: 4.2rem;
     font-weight: bold;
     margin: 0;
     line-height: 1.4;
@@ -30,7 +30,7 @@
 
   p {
     color: white;
-    font-size: 1rem;
+    font-size: 2rem;
     margin-top: 1rem;
   }
 </style>
@@ -38,10 +38,8 @@
 <div class="container">
   <div class="card">
     <h1>
-      Educational Attainment and<br>
-      Workforce Income Disparity by<br>
-      Race
+      Thank You!
     </h1>
-    <p>Data-Driven Study</p>
+    <p>By: Menna Hassan</p>
   </div>
 </div>

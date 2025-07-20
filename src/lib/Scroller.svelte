@@ -1,6 +1,4 @@
 <script>
-    // `layout` can be either "right" or "left"
-    // `sticky` and `scrolly` are the snippets passed in (see one of the examples)
     let { layout, sticky, scrolly } = $props(); 
 </script>
 
@@ -72,7 +70,7 @@
         .scrolly {
             flex: 1 1 auto;
             min-width: 100%;
-            position: static; /* remove sticky on mobile */
+            position: static; 
             transform: none;
         }
 
