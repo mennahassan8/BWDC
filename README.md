@@ -1,22 +1,18 @@
-# KWK Scrollytelling template
+# Black Wealth Data Center Challenge 2025
 
-This template is a starting point / example of how to create a scrollytelling piece using Svelte and Highcharts! 
+● A scrollytelling project presents the Education Attainment and Annual Earning rates for Asian, Black, Hispanic, and White through visualizations and Insights.
+Check the web page of [Final Project Website](https://mennahassan8.github.io/BWDC/)!
+## Tools
+● Python
+● Pandas
+● Svelte
 
-## Demo
-See a live demo of the page [here](https://jasminesamra.github.io/kwk-scrollytelling-template/)!
+## DataSets
+● [BWDC website](https://blackwealthdata.org/)
 
-## Recommended IDE Setup
+## Colors
+● [HTML Colors](https://htmlcolorcodes.com/)
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+## AI usage
+● Used ChatGPT to debug coding errors in pandas and svelte. And to know information about the different races cultures, income level, and education levels to interpret the insights resulted from my visualizations.
 
-## How to clone the repo
-On this repo's homepage in GitHub, click the `Use this template` button. Select the option to create a new repository. This will create a new repo under your GitHub account.
-
-Navigate to your new copy of this template in your GitHub profile. 
-
-Clone your new repo locally and `cd` into it. 
-
-Run `npm install` and then `npm run dev` to spin up the project locally. Then, start making changes! You can use this repo as a starting point for your own final project or simply as an example. 
-
-## Credit
-Repo created using vite (`npm create vite@6`)
