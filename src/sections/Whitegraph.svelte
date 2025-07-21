@@ -20,7 +20,7 @@
             <ArticleText>
                 <strong>
                    The graph clearly shows the average of degree attainment rates each year. It is apparent that the highest 
-                     average attainment rate occured in 2023 with above 68,500$ which is the second highest degree attainment
+                     average attainment rate occured in 2023 with above 68% which is the second highest degree attainment
                      rate among races after Asians.
                 </strong>
             </ArticleText>
